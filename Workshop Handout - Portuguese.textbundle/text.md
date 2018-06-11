@@ -1,8 +1,7 @@
-## Padrões para Organizações Descentralizadas
+## 8 Padrões de Colaboração
+### Turnê de workshops
 
-### Turnê de workshops 2017
-
-Este ano estamos em turnê encontrando grupos que experimentam com estruturas de gestão não hierárquicas: empresas, cooperativas, start-ups, ONGs, redes de ativistas, grupos envolvidos com democracia direta, etc.. Oferecemos workshops para compartilhar o que aprendemos no caminho.
+Nos últimos dois anos estamos em turnê encontrando grupos que experimentam com estruturas de gestão não hierárquicas: empresas, cooperativas, start-ups, ONGs, redes de ativistas, grupos envolvidos com democracia direta, etc.. Oferecemos workshops para compartilhar o que aprendemos no caminho.
 
 ### Enspiral: mais gente trabalhando no que importa
 
@@ -22,7 +21,7 @@ O Loomio foi construído por uma cooperativa pertencente aos trabalhadores em Ao
 
 *Leia o manual da cooperativa: loomio.coop*
 
-### Oito Padrões para Organizações Descentralizadas
+### Oito Padrões de Colaboração
 
 Em meu papel no Loomio e na Enspiral, trabalhei com dezenas de grupos que **experimentam organizações de forma descentralizada** e notei que cada grupo enfrentava desafios semelhantes e que **compartilhar experiências** entre estes grupos os ajudava a **inovar mais rápido**.
 
@@ -181,17 +180,13 @@ Entre em contato conosco, adoramos receber feedback:
 nati@loomio.org 	rich@loomio.org 
 lucas@enspiral.com 	sandra.chemin@enspiral.com
 
-## Facilitadores
+## Autores
 
 **Richard Bartlett** é um dos fundadores do [Loomio]()(https://www.loomio.org/), plataforma de tomada de decisão coletiva usada por milhares de grupos ao redor do mundo. Ele também é Catalista da [Enspiral]()(http://enspiral.com), rede de empresas pioneira em novos formatos de trabalho desde 2010. Ele é apaixonado por governança colaborativa, liderança distribuída e modelos cooperativos de propriedade. Ele escreve frequentemente em richdecibels.com.
 
 **Natália Lombardo** é co-proprietária do Loomio, startup criada num modelo de cooperativa para oferecer ferramentas para tomada de decisão coletiva. Ela ajuda times a se auto-organizar, através de valores compartilhados e cultura colaborativa. Ela traz experiência com desenvolvimento de comunidades e permacultura. Nascida na Argentina e morando na Nova Zelândia, ela é uma tradutora de idiomas e culturas. 
 
-**[Sandra Chemin]()**](https://nz.linkedin.com/in/sandrachemin) fundou a primeira agência digital do Brasil em uma época onde internet existia apenas dentro da universidade. Depois de vender sua agência, comandou a operação de internet da Ogilvy na América Latina. 
-
-Sandra é consultora em gestão, membro da [Enspiral]()(http://enspiral.com/), rede global de empreendedores e startups pioneira em novos modelos de trabalho e embaixadora da [Edmund Hillary Fellowship]()(https://www.ehf.org/), programa que criou o único visto do mundo para atrair empreendedores e incubar projetos de impacto global a partir da Nova Zelândia. Palestrante, contou sua história em duas apresentações do TEDx - [A forma com que olhamos o mundo abre novas perspectivas]()(https://youtu.be/IPy1i6noHAo?list=LLj7hDFOuJg5ralb3REUvH-w)  e [O futuro do trabalho é o presente que você cria]()(https://www.youtube.com/watch?v=C4KDES3XWXI&t=600s). 
-
-Seu mais novo projeto chama futureyou, programa que ajuda empresas e pessoas a navegarem o futuro do trabalho.
+## Facilitador
 
 **Lucas Tauil de Freitas** é um facilitador que parte da escuta profunda para apoiar grupos a identificar padrões e tecer práticas de colaboração e pertencimento. Membro do Human Methods Lab, uma das iniciativas da [Enspiral]()(http://Enspiral.com), atua na mobilização da diversidade como forma de fortalecer o trabalho em grupo. Lucas também é navegador e  jornalista, escreve uma coluna na revista Vida Simples, à bordo do Santa Paz velejou da Inglaterra a Nova Zelândia por sete anos com a família.
 
